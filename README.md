@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-evaniacheng
 
 Running at: https://jpa03-evaniacheng.dokku-02.cs.ucsb.edu/
 
